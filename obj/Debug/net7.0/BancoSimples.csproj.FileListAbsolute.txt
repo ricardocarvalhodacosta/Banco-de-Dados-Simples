@@ -1,0 +1,15 @@
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\bin\Debug\net7.0\BancoSimples.exe
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\bin\Debug\net7.0\BancoSimples.deps.json
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\bin\Debug\net7.0\BancoSimples.runtimeconfig.json
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\bin\Debug\net7.0\BancoSimples.dll
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\bin\Debug\net7.0\BancoSimples.pdb
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\obj\Debug\net7.0\BancoSimples.csproj.AssemblyReference.cache
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\obj\Debug\net7.0\BancoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\obj\Debug\net7.0\BancoSimples.AssemblyInfoInputs.cache
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\obj\Debug\net7.0\BancoSimples.AssemblyInfo.cs
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\obj\Debug\net7.0\BancoSimples.csproj.CoreCompileInputs.cache
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\obj\Debug\net7.0\BancoSimples.dll
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\obj\Debug\net7.0\refint\BancoSimples.dll
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\obj\Debug\net7.0\BancoSimples.pdb
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\obj\Debug\net7.0\BancoSimples.genruntimeconfig.cache
+C:\Users\C#Unity\Documents\ProjetoCS1\BancoSimples\obj\Debug\net7.0\ref\BancoSimples.dll
