@@ -11,5 +11,8 @@ class Program
         InterfaceUsuario interfaceUsuario = new InterfaceUsuario(bancoDeDados);
         interfaceUsuario.Executar();
         Console.WriteLine("** DADOS ATUALIZADOS COM SUCESSO!! **");
+        Console.WriteLine();
+        Console.WriteLine("Pressione qualquer tecla para sair...");
+        Console.ReadKey();
     }
 }
