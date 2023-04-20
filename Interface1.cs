@@ -21,11 +21,10 @@ namespace BancoSimples
             {
                 while (true)
                 {
-                    Console.Write("Digite o Nome do Cliente (ou 'sair' para encerrar): ");
+                    Console.WriteLine("** ADICIONE OS NOVOS DADOS!! **");
+                    Console.WriteLine();
+                    Console.Write("Digite o Nome do Cliente: ");
                     string nome = Console.ReadLine();
-
-                    if (nome == "sair")
-                        break;
 
                     Console.Write("Digite o E-mail do Cliente: ");
                     string email = Console.ReadLine();
@@ -34,6 +33,18 @@ namespace BancoSimples
                     string telefone = Console.ReadLine();
 
                     bancoDeDados.AdicionarCliente(nome, email, telefone);
+
+                    Console.Write("Deseja adicionar mais clientes? Digite S/N: ");
+                    string cont = Console.ReadLine();
+                    Console.WriteLine();
+
+                    if (cont.ToUpper() != "S")
+                    {
+                        Console.WriteLine("** DADOS ATUALZIADOS COM SUCESSO!! **");
+                        Console.WriteLine();
+                        break;
+                    }
+
                 }
 
                 bancoDeDados.SalvarDados();
@@ -43,6 +54,7 @@ namespace BancoSimples
                 foreach (string dado in dados)
                 {
                     Console.WriteLine(dado, true);
+                    Console.WriteLine();
                 }
             }
         }

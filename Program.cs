@@ -10,5 +10,6 @@ class Program
         BancoDeDados bancoDeDados = new BancoDeDados();
         InterfaceUsuario interfaceUsuario = new InterfaceUsuario(bancoDeDados);
         interfaceUsuario.Executar();
+        Console.WriteLine("** DADOS ATUALIZADOS COM SUCESSO!! **");
     }
 }
